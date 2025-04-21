@@ -1,0 +1,11 @@
+{
+  "src/main.ts": {
+    "file": "dist/main-DQ5_HLrz.js",
+    "name": "main",
+    "src": "src/main.ts",
+    "isEntry": true,
+    "css": [
+      "dist/main-opAbV4tk.css"
+    ]
+  }
+}
